@@ -1,6 +1,6 @@
 import { ReactAppOptions } from '@teambit/react';
 
-export const BannerApp: ReactAppOptions = {
+export const Banner: ReactAppOptions = {
   name: 'banner',
   entry: [require.resolve('./banner.app-root')],
   prerender: {
@@ -8,4 +8,4 @@ export const BannerApp: ReactAppOptions = {
   }
 };
 
-export default BannerApp;
+export default Banner;

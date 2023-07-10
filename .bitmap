@@ -30,17 +30,5 @@
             }
         }
     },
-    "microfrontend/banner": {
-        "scope": "",
-        "version": "",
-        "mainFile": "index.ts",
-        "rootDir": "microfrontends/microfrontend/banner",
-        "config": {
-            "teambit.harmony/aspect": {},
-            "teambit.envs/envs": {
-                "env": "teambit.harmony/aspect"
-            }
-        }
-    },
     "$schema-version": "15.0.0"
 }
